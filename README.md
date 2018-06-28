@@ -46,3 +46,15 @@ $ roslaunch udacity_bot udacity_bot
 $ roslaunch udacity_bot amcl
 $ rosrun udacity_bot navigation goal
 ```
+
+![](https://github.com/Ohara124c41/RoboND-Localization-WhereAmI/blob/master/Images/writeup-RoboND-Localization-1.jpg?raw=true)
+![](https://github.com/Ohara124c41/RoboND-Localization-WhereAmI/blob/master/Images/writeup-RoboND-Localization-2.jpg?raw=true)
+
+![](https://github.com/Ohara124c41/RoboND-Localization-WhereAmI/blob/master/Images/writeup-RoboND-Localization-3.jpg?raw=true)
+
+![](https://github.com/Ohara124c41/RoboND-Localization-WhereAmI/blob/master/Images/writeup-RoboND-Localization-4.jpg?raw=true)
+
+![](https://github.com/Ohara124c41/RoboND-Localization-WhereAmI/blob/master/Images/writeup-RoboND-Localization-5.jpg?raw=true)
+
+![](https://github.com/Ohara124c41/RoboND-Localization-WhereAmI/blob/master/Images/writeup-RoboND-Localization-6.jpg?raw=true)
+
