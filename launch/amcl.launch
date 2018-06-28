@@ -28,19 +28,19 @@
     <param name="min_particles" value="20"/>
     <param name="max_particles" value="500"/>
     <!-- initial params -->
-    <!-- <param name="initial_pose_a" value="1"/> -->
     <param name="initial_cov_xx" value="5"/>
     <param name="initial_cov_yy" value="5"/>
     <param name="initial_cov_aa" value="5"/>
-    <!-- odom model params -->
-    <param name="odom_alpha1" value="0.02"/>
-    <param name="odom_alpha2" value="0.02"/>
-    <param name="odom_alpha3" value="0.02"/>
-    <param name="odom_alpha4" value="0.02"/>
-    <!-- laser params -->
-    <param name="laser_z_hit" value="0.95"/>
-    <param name="laser_sigma_hit" value="0.1"/>
-    <param name="laser_z_rand" value="0.05"/>
+    <!-- odometry model parameters -->
+    <param name="odom_alpha1" value="0.025"/>
+    <param name="odom_alpha2" value="0.025"/>
+    <param name="odom_alpha3" value="0.025"/>
+    <param name="odom_alpha4" value="0.025"/>
+    <!-- laser parameters -->
+    <!-- Note that whichever mixture weights are in use should sum to 1.-->
+    <param name="laser_z_hit" value="0.96"/>
+    <param name="laser_sigma_hit" value="0.02"/>
+    <param name="laser_z_rand" value="0.02"/>
     <param name="laser_likelihood_max_dist" value="2.0"/>
     
 
